@@ -1,0 +1,26 @@
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server\bin\Debug\netcoreapp3.1\server.exe
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server\bin\Debug\netcoreapp3.1\server.deps.json
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.json
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server\bin\Debug\netcoreapp3.1\server.runtimeconfig.dev.json
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server\bin\Debug\netcoreapp3.1\server.dll
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server\bin\Debug\netcoreapp3.1\server.pdb
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server\obj\Debug\netcoreapp3.1\server.csprojAssemblyReference.cache
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server\obj\Debug\netcoreapp3.1\server.AssemblyInfoInputs.cache
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server\obj\Debug\netcoreapp3.1\server.AssemblyInfo.cs
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server\obj\Debug\netcoreapp3.1\server.csproj.CoreCompileInputs.cache
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server\obj\Debug\netcoreapp3.1\server.dll
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server\obj\Debug\netcoreapp3.1\server.pdb
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server\obj\Debug\netcoreapp3.1\server.genruntimeconfig.cache
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server comt\bin\Debug\netcoreapp3.1\server.exe
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server comt\bin\Debug\netcoreapp3.1\server.deps.json
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server comt\bin\Debug\netcoreapp3.1\server.runtimeconfig.json
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server comt\bin\Debug\netcoreapp3.1\server.runtimeconfig.dev.json
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server comt\bin\Debug\netcoreapp3.1\server.dll
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server comt\bin\Debug\netcoreapp3.1\server.pdb
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server comt\obj\Debug\netcoreapp3.1\server.csprojAssemblyReference.cache
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server comt\obj\Debug\netcoreapp3.1\server.AssemblyInfoInputs.cache
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server comt\obj\Debug\netcoreapp3.1\server.AssemblyInfo.cs
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server comt\obj\Debug\netcoreapp3.1\server.csproj.CoreCompileInputs.cache
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server comt\obj\Debug\netcoreapp3.1\server.dll
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server comt\obj\Debug\netcoreapp3.1\server.pdb
+C:\HAN\EHE\CT\tcp ip stack onderzoek\code\tcp\server comt\obj\Debug\netcoreapp3.1\server.genruntimeconfig.cache

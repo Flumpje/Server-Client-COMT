@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "e7f57pKxIyb7nkrwWud670qSEdTQX0LK2teE1RiN2LrJwAOEuN3BX9/Uzc515N/iS8BBQqQuGB9Sdt3q1Nc1QQ==",
+  "success": true,
+  "projectFilePath": "C:\\HAN\\EHE\\CT\\tcp ip stack onderzoek\\code\\tcp\\client comt\\client.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Willem\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
